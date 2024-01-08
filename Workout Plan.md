@@ -14,17 +14,17 @@
 
 
 ### Monday - Push day
-Exercises | Reps
---- | ---:
-Incline Barbell Press | 8 X 3
-Dumbbell Shoulder Press | 8 X 3
-Paused Dumbbell Press (Seconds) | 60 X 3
-Barbell press | 7 X 2
-Block Lateral Raise | 7 X 2
-Supination | 10 X 3
-French press | 9 X 2
-Block extension | 12 X 2
-`Chest/Triceps/Middle delts` | 
+| Exercises | Reps |
+| ---- | ---: |
+| Incline Barbell Press | 8 X 3 |
+| Barbell press | 7 X 2 |
+| Dumbbell Shoulder Press | 8 X 3 |
+| Paused Dumbbell Press (Seconds) | 60 X 3 |
+| Block Lateral Raise | 7 X 2 |
+| High crossover | 10 X 3 |
+| French press | 9 X 2 |
+| Block extension | 12 X 2 |
+| `Chest/Triceps/Middle delts` |  |
 French press, Block extension can be replaced with any triceps exercise 
 **Do in rest:** 
 - Dumbbell front raise 8 X 4
@@ -32,17 +32,17 @@ French press, Block extension can be replaced with any triceps exercise
 ---
 
 ### Wednesday - Pull day
-Exercises | Reps
---- | ---:
-Pull up | 12 X 3
-Barbell row | 8 X 3
-Reverse Grip Lap | 8 X 3
-Incline barbell row on 75° | 9 X 2
-Incline barbell row on 45° | 9 X 2
-Grip Barbell Curl | 8 X 3
-Kneeling Face Pulls | 10 X 2
-Sitting arm curls | 6-8 X 2
-`Back/Biceps/Rear Delts` | 
+| Exercises | Reps |
+| ---- | ---: |
+| Pull up | 12 X 3 |
+| Barbell row | 8 X 3 |
+| Reverse Grip Lap | 8 X 3 |
+| Incline barbell row on 75° | 9 X 2 |
+| Incline barbell row on 45° | 9 X 2 |
+| Kneeling Face Pulls | 10 X 2 |
+| Grip Barbell Curl | 8 X 3 |
+| Sitting arm curls | 6-8 X 2 |
+| `Back/Biceps/Rear Delts` |  |
 Grip Barbell Curl can be replaced with any biceps exercise
 **Do in rest:** 
 - Weighing the neck back 15 X 4 
@@ -50,12 +50,19 @@ Grip Barbell Curl can be replaced with any biceps exercise
 ---
 
 ### Thursday - Abs day
-- Twists X 4
-- Velocity X 4
-- L sit 1 variation X 3
-- L sit 2 variation X 3
-**Or**
-![[src/absexe.jpeg]]
+| Exercise | Reps |
+| --- | --- |
+| Twists | X4 |
+| Velocity | X3 |
+| Обратные скручивания | X3 |
+| L sit 1 variation | X2 |
+| Подъёмы ног | X3 |
+| Косые скручивания | X4 |
+Do rest 1 minutes
+**May choose an another exercise**
+- Подъёмы ног
+- Планка на локтях
+- Статик подъем прямых рук и ног
 
 ---
 
@@ -65,8 +72,8 @@ Grip Barbell Curl can be replaced with any biceps exercise
 | Back Squats | 8 X 3 |
 | Hack Squats | 10 X 3 |
 | Split Squats | 12 X 3 |
-| Romanian deadlift | 8 X 3 |
 | Leg Press | 10 X 2 |
+| Romanian deadlift | 8 X 3 |
 | Standing Calf Raises | 15+ X 3 |
 | Seated Calf Raises | 15+ X 3 |
 | `Quads/Calf/Hamstrings` |  |
@@ -96,14 +103,13 @@ In the 2 last exercise do rest 1.5 minutes
 --- 
 
 ### Saturday - AbsArm
-Exercises | Reps
---- |---:
-Barbell leg crunches | 10 X 3
-Arm wrestling | 08 X 3
-Farmer's Walk (Seconds) | 30 X 3
-Barbell crunches from behind | 12 X 3
-`Forearms/Abs/Obliques` | 
-
+| Exercises | Reps |
+| ---- | ---: |
+| Barbell leg crunches | 10 X 3 |
+| Reverse EZ Bar Curl | 8 X 3 |
+| Wrist Roller | 3 X 3 |
+| Wrist Extension from behind | 12 X 3 |
+| `Forearms/Abs/Obliques` |  |
 Abs exercises can be done additionally on Thursday
 **Do in rest:**
 - Leg bends on the bar X 3
@@ -131,5 +137,6 @@ Rest with Warm up | 1
 - Думать о мышцах во время упражнений, нейро-мышечная связь
 - Пить воду.
 - Медленно опускать вес.
+- Порядок упражнений в тренировке: Базовые упражнения, Большие мышцы, Мелкие мышцы, Изолирующие упражнения
 
 ---
