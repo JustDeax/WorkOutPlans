@@ -56,6 +56,9 @@ Grip Barbell Curl can be replaced with any biceps exercise
 - L sit 2 variation X 3
 **Or**
 ![[src/absexe.jpeg]]
+
+---
+
 ### Friday - Legs day
 | Exercises | Reps |
 | ---- | ---: |
@@ -74,15 +77,15 @@ In the 2 last exercise do rest 1.5 minutes
 --- 
 
 ### Friday - Timing day
-Exercise | Reps
---- | ---
-Махи гантелями | X3
-Жим гантелей | X2
-Жим штанги | X2
-Шраги со свободными весами | X3
-Тяга к лицу с подъёмом наверх | X3
-Подъёмы блина над головой | X2
-`Delts, trapezius, Neck, Calf, Calisthenics` | 
+| Exercise | Reps |
+| ---- | ---- |
+| Махи гантелями | X3 |
+| Жим гантелей | X2 |
+| Жим штанги | X2 |
+| Шраги со свободными весами | X3 |
+| Тяга к лицу с подъёмом наверх | X3 |
+| Подъёмы блина над головой | X2 |
+| `Delts, trapezius, Neck, Calf, Calisthenics` |  |
 
 **Do in rest**
 - На икры 1 упр X4
@@ -107,6 +110,8 @@ Abs exercises can be done additionally on Thursday
 - Leg curls on the machine X 3
 - Twists X 3
 - Prayer X 3
+
+---
 
 ### All days - Warm Up
 Exercises before Training | (M)
