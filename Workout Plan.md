@@ -5,7 +5,7 @@
 
 #### [[Workout plan#Thursday - Abs day | Is Thursday]]
 
-#### [[Workout plan#Friday - Timing day | Is Friday]]
+#### [[Workout plan#Friday - Legs day| Is Friday]]
 
 #### [[Workout plan#Saturday - AbsArm | Is Saturday]]
 
