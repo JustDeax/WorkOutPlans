@@ -13,6 +13,9 @@
 
 
 
+### Monday New
+
+
 ### Monday - Push day
 | Exercises | Reps |
 | ---- | ---: |
@@ -84,15 +87,15 @@ In the 2 last exercise do rest 1.5 minutes
 --- 
 
 ### Friday - Timing day
-| Exercise | Reps |
-| ---- | ---- |
-| Махи гантелями | X3 |
-| Жим гантелей | X2 |
-| Жим штанги | X2 |
-| Шраги со свободными весами | X3 |
-| Тяга к лицу с подъёмом наверх | X3 |
-| Подъёмы блина над головой | X2 |
-| `Delts, trapezius, Neck, Calf, Calisthenics` |  |
+| Exercise                                     | Reps |
+| -------------------------------------------- | ---- |
+| Махи гантелями                               | X3   |
+| Жим гантелей                                 | X2   |
+| Жим штанги                                   | X2   |
+| Шраги со свободными весами                   | X3   |
+| Тяга к лицу с подъёмом наверх                | X3   |
+| Подъёмы блина над головой                    | X2   |
+| `Delts, trapezius, Neck, Calf, Calisthenics` |      |
 
 **Do in rest**
 - На икры 1 упр X4
@@ -103,13 +106,13 @@ In the 2 last exercise do rest 1.5 minutes
 --- 
 
 ### Saturday - AbsArm
-| Exercises | Reps |
-| ---- | ---: |
-| Barbell leg crunches | 10 X 3 |
-| Reverse EZ Bar Curl | 8 X 3 |
-| Wrist Roller | 3 X 3 |
+| Exercises                   |   Reps |
+| ---| ---: |
+| Barbell leg crunches        | 10 X 3 |
+| Reverse EZ Bar Curl         |  8 X 3 |
+| Wrist Roller                |  3 X 3 |
 | Wrist Extension from behind | 12 X 3 |
-| `Forearms/Abs/Obliques` |  |
+| `Forearms/Abs/Obliques`     |        |
 Abs exercises can be done additionally on Thursday
 **Do in rest:**
 - Leg bends on the bar X 3
